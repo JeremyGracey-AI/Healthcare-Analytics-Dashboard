@@ -203,7 +203,7 @@ project5-healthcare-dashboard/
    - Source: Deploy from branch
    - Branch: main / folder: /docs (or create /docs folder)
 
-3. Access at: `https://username.github.io/portfolio/project5-healthcare-dashboard/`
+3. Access at: `https://JeremyGracey-AI.github.io/portfolio/project5-healthcare-dashboard/`
 
 ### Data Preparation (Optional)
 
