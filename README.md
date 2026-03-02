@@ -2,7 +2,7 @@
 
 An interactive, production-quality business intelligence dashboard demonstrating advanced data visualization, analytics, and web development skills. Built with vanilla JavaScript and Chart.js—no backend required.
 
-**Live Demo:** [Open Dashboard](https://jgracey.github.io/portfolio/project5-healthcare-dashboard/) (GitHub Pages)
+**Live Demo:** [Open Dashboard](https://JeremyGracey-AI.github.io/portfolio/project5-healthcare-dashboard/) (GitHub Pages)
 
 ---
 
@@ -171,7 +171,7 @@ project5-healthcare-dashboard/
 
 1. **Download the dashboard:**
    ```bash
-   git clone https://github.com/jgracey/portfolio.git
+   git clone (https://github.com/JeremyGracey-AI)portfolio.git
    cd portfolio/project5-healthcare-dashboard
    ```
 
@@ -449,7 +449,7 @@ document.addEventListener('DOMContentLoaded', function() { ... })
 
 **Jeremy Gracey**
 Data Analytics Portfolio
-[GitHub](https://github.com/jgracey) | [LinkedIn](https://linkedin.com/in/jgracey)
+[GitHub](https://github.com/JeremyGracey-AI) | [LinkedIn](https://linkedin.com/in/jeremygracey-ai)
 
 ---
 
